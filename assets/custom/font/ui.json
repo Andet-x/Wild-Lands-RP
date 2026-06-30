@@ -1,0 +1,81 @@
+{
+	"providers": [
+        {
+            "type": "bitmap",
+            "file": "custom:ui/gui_friends.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/gui_colors.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/gui_private.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE010"]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/gui_list_select.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": ["\uE012"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/friends_list.png",
+			"ascent": -5,
+			"height": 16,
+            "chars": ["\uF002"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/friends_send.png",
+			"ascent": -5,
+			"height": 16,
+            "chars": ["\uF003"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/friends_receive.png",
+			"ascent": -5,
+			"height": 16,
+            "chars": ["\uF004"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/button_up_lagre.png",
+			"ascent": -5,
+			"height": 52,
+            "chars": ["\uF005"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/button_down_lagre.png",
+			"ascent": -59,
+			"height": 52,
+            "chars": ["\uF006"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/button_left_large.png",
+			"ascent": -23,
+			"height": 52,
+            "chars": ["\uF007"]
+        },
+        {
+            "type": "bitmap",
+			"file": "custom:ui/buttons/button_right_large.png",
+			"ascent": -23,
+			"height": 52,
+            "chars": ["\uF008"]
+        }
+	]
+}

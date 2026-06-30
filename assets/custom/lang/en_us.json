@@ -1,0 +1,33 @@
+﻿    {
+    "container.inventory":" ",
+    "merchant.trades":" ",
+
+    "screen.blank": "\uD001",
+    "screen.tab": "\uD002",
+
+    "gui.friends": "\uE002",
+    "gui.colors": "\uE003",
+    "gui.text.list": "\uE006",
+    "gui.private": "\uE010",
+    "gui.list.select": "\uE012",
+
+    "button.friends.list": "\uF002",
+    "button.friends.send": "\uF003",
+    "button.friends.receive": "\uF004",
+    "button.page.up.large": "\uF005",
+    "button.page.down.large": "\uF006",
+    "button.left.large": "\uF007",
+    "button.right.large": "\uF008",
+    "button.book": "\uF009",
+    "button.cmd": "\uF00a",
+    "button.page.prev": "\uF000",
+    "button.page.next": "\uF001",
+
+    "item.hammer.iron": "Iron Hammer",
+    "item.hammer.golden": "Golden Hammer",
+    "item.hammer.diamond": "Diamond Hammer",
+    "item.hammer.netherite": "Netherite Hammer",
+    "item.portableworkbench": "Portable Workbench",
+
+    "block.private": "Region Block"
+}

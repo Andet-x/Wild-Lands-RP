@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "custom:ui/black_box.png",
+            "ascent": 800,
+            "height": 3000,
+            "chars": [
+                "\uD001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom:ui/tab.png",
+            "ascent": 32,
+            "height": 100,
+            "chars": [
+                "\uD002"
+            ]
+        }
+	]
+}

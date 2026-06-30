@@ -1,0 +1,10 @@
+{
+    "item.hammer.iron": "Железный молот",
+    "item.hammer.golden": "Золотой молот",
+    "item.hammer.diamond": "Алмазный молот",
+    "item.hammer.netherite": "Незеритовый молот",
+    "item.portableworkbench": "Переносной верстак",
+
+    "block.private": "Блок региона"
+
+}
